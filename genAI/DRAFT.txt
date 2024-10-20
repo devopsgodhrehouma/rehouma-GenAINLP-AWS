@@ -1,0 +1,15 @@
+==> IAGénérative et outils de IA générative
+
+==> Concepts de NLP
+Tokenisation 
+ÉTIQUETAGE DES DONNÉES
+stopwords
+lemmatisation 
+stemming 
+
+
+https://github.com/devopsgodhrehouma/NLP/tree/main/01-theorie
+https://github.com/devopsgodhrehouma/genIA
+https://github.com/hrhouma/Apprentissage-Par-Renforcement
+
+
