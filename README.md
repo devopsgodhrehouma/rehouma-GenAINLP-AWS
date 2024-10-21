@@ -23,4 +23,3 @@ Mettez vos compétences en pratique avec des exercices appliqués au traitement 
 [Accéder à la partie pratique 01 - NLP](https://github.com/devopsgodhrehouma/rehouma-GenAINLP-AWS/tree/main/nlp/02-evaluations-formatives)
 
 
-Ce README utilise des emojis pour rendre la navigation plus ludique et agréable. Bonne exploration ! 😎
