@@ -1,4 +1,4 @@
-# Énoncé du Travail Pratique : Concepts de NLP avec NLTK
+# Énoncé du Travail Pratique 1 : Concepts de NLP avec NLTK
 
 Vous allez travailler avec la librairie **NLTK** en Python pour découvrir comment traiter du texte brut et en extraire des informations clés. Dans cet exercice, vous devez nettoyer un texte brut en appliquant des techniques de traitement du langage naturel (NLP). Suivez les étapes fournies dans le code ci-dessous et expliquez chacune en détail. À la fin, vous devrez générer une liste de mots-clés significatifs en justifiant l’intérêt de chaque étape.
 
