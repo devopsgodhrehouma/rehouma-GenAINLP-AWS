@@ -41,7 +41,7 @@ def show_digit(img, caption="", subplot=None):
 show_digit(train_set[0][30], f"This is a {train_set[1][30]}")
 ```
 
-#### Explication détaillée
+#### Explication 
 - **%matplotlib inline** : Permet d'afficher des graphiques directement dans le notebook.
 - **`show_digit(img, caption, subplot)`** :
   - Transforme l’image en une grille de pixels 28x28 (taille des images MNIST).
@@ -78,7 +78,7 @@ train_set_buf.seek(0)
 validation_set_buf.seek(0)
 ```
 
-#### Explication détaillée
+#### Explication 
 
 **Questions pour les étudiants** :
 1. **Pourquoi convertir les données en `float32` ?**
@@ -114,7 +114,7 @@ s3_validation_data = f"s3://{bucket}/{prefix}/validation/{key}"
 print(f"uploaded validation data location: {s3_validation_data}")
 ```
 
-#### Explication détaillée
+#### Explication 
 
 **Questions pour les étudiants :**
 1. **Que représente `s3://` ?**
@@ -211,7 +211,7 @@ result = linear_predictor.predict(train_set[0][30:31], initial_args={"ContentTyp
 print(result)
 ```
 
-#### Explication détaillée
+#### Explication 
 
 **Questions pour les étudiants :**
 1. **Que signifie `ContentType="text/csv"` ?**
@@ -238,7 +238,7 @@ pd.crosstab(
 )
 ```
 
-#### Explication détaillée
+#### Explication 
 
 **Questions pour les étudiants :**
 1. **Que représente une matrice de confusion ?**
